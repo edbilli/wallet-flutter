@@ -61,9 +61,6 @@ To process transactions on the network, you will also need coins to pay the tran
 - Polygon (old MATIC): [https://faucet.polygon.technology/](https://faucet.polygon.technology/)
 - BSC: [https://testnet.binance.org/faucet-smart](https://testnet.binance.org/faucet-smart)
 
-### The smart contract
-
-Link for the smart contract used for this project [https://github.com/allanclempe/ether-wallet-contract](https://github.com/allanclempe/ether-wallet-contract)
 
 ### Buy me a coffee
 
